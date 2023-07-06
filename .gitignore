@@ -1,0 +1,10 @@
+node_modules
+dist
+img
+.vscode
+CHANGELOG.md
+.vscodeignore
+package.json
+yarn.lock
+vsc-extension-quickstart.md
+dark-mono-1.0.1.vsix
