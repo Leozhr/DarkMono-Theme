@@ -1,13 +1,11 @@
-## Dark Mono Theme
-
+# Dark Mono Theme
 Prepare yourself to delve into darkness with the Dark Mono theme for Visual Studio Code. With its captivating design and a touch of mystery, Dark Mono brings an intriguing atmosphere to your development environment.
 
 Explore the elegance of deep contrast and meticulously selected dark tones, creating a visually immersive experience. Each line of code comes to life as the carefully calibrated color palette provides a smooth and pleasant reading experience.
 
 #
 
-## Installation
-
+### Installation
 To install the Dark Mono theme in Visual Studio Code, follow these steps:
 
 1. Launch Visual Studio Code.
@@ -20,8 +18,7 @@ To install the Dark Mono theme in Visual Studio Code, follow these steps:
 
 #
 
-## Customization
-
+### Customization
 Dark Mono provides extensive customization options to tailor the theme to your preferences. To customize the theme, follow these steps:
 
 1. Go to File > Preferences > Settings.
@@ -37,5 +34,5 @@ Let's make the Dark Mono theme even better together!
 
 #
 
-## License
+### License
 The Dark Mono theme is open source and available under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
